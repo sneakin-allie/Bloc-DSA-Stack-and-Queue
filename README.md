@@ -1,1 +1,1 @@
-Stacks and queues notes and practice
+Notes and practice on stacks and queues for Bloc
